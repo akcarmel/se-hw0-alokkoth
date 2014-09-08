@@ -6,7 +6,8 @@
 	<scm>
 		<connection>scm:git:git@github.com:akcarmel/se-hw0-alokkoth.git</connection>
 		<developerConnection>scm:git:git@github.com:akcarmel/se-hw0-alokkoth.git</developerConnection>
-	</scm>
+	  <tag>hw0-alokkoth-0.0.2</tag>
+  </scm>
 	<repositories>
 		<repository>
 			<id>deployment</id>
